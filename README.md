@@ -346,3 +346,4 @@ Around 3 hours
 
 When I was doing Task 2.1 I have problem when using this line: nltk.download('punkt') and always get error msg, then I solved problem by downloading the pkg from http://www.nltk.org/nltk_data/ and put it into our project and it works. (Yuhsuan Chen)
 
+No special difficulties I have faced but it took some times to understand how to use these interface and functions. (Yi-Chiau Li)
